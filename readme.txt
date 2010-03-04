@@ -3,8 +3,8 @@ Contributors: cgarvey
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6137112
 Tags: cgarvey, short code, shortcode, template, stylesheet, url
 Requires at least: 2.9.0
-Tested up to: 2.9.1
-Stable tag: rel_1.00
+Tested up to: 2.9.2
+Stable tag: rel_1-00
 
 URL ShortCodes plugin adds support for a basic short codes to use in your post/page editor that produce correct absolute URLs.
 
