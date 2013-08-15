@@ -4,13 +4,13 @@
 	Plugin URI: http://cgarvey.ie/
 	Feed URI: 
 	Description: Adds support for a [url_base] and [url_template] shortcodes for use in your post/page editor.
-	Version: 1.0
+	Version: 1.1
 	Author: Cathal Garvey
 	Author URI: http://cgarvey.ie/
 */
 
 /*
-	Copyright (c) 2010 Cathal Garvey ( http://cgarvey.ie/ )
+	Copyright (c) 2010-2013 Cathal Garvey ( http://cgarvey.ie/ )
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
