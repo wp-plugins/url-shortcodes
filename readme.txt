@@ -3,8 +3,10 @@ Contributors: cgarvey
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6137112
 Tags: cgarvey, short code, shortcode, template, stylesheet, url
 Requires at least: 2.9.0
-Tested up to: 2.9.2
+Tested up to: 3.6.0
 Stable tag: rel_1-00
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 URL ShortCodes plugin adds support for a basic short codes to use in your post/page editor that produce correct absolute URLs.
 
@@ -19,7 +21,8 @@ The supported short codes are as follows:
 * [url_template] - the URL of the active template. E.g. http://localhost/wordpress/wp-content/themes/mytheme1
 
 == Changelog ==
-* Version 1.00 - Initial release.
+* Version 1.0 - Initial release.
+* Version 1.1 - Added graphics, and confirmed suitability with WP 3.6x.
 
 == Installation ==
 
@@ -33,6 +36,10 @@ There are no FAQs at this time. Feel free to suggest some!
 
 1. Sample short code use.
 2. Rendered output.
+
+== Upgrade Notice ==
+= 1.1 =
+Optional update. No core functionality changes, just meta-data changes.
 
 == License ==
 This plugin uses the GPLv3 license.
