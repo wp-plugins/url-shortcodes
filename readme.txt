@@ -3,7 +3,7 @@ Contributors: cgarvey
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6137112
 Tags: cgarvey, short code, shortcode, template, stylesheet, url
 Requires at least: 2.9.0
-Tested up to: 3.6.0
+Tested up to: 3.9
 Stable tag: rel_1-01
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
