@@ -3,8 +3,8 @@ Contributors: cgarvey
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6137112
 Tags: cgarvey, short code, shortcode, template, stylesheet, url
 Requires at least: 2.9.0
-Tested up to: 3.9
-Stable tag: rel_1-01
+Tested up to: 4.0
+Stable tag: rel_1-02
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -21,8 +21,9 @@ The supported short codes are as follows:
 * [url_template] - the URL of the active template. E.g. http://localhost/wordpress/wp-content/themes/mytheme1
 
 == Changelog ==
-* Version 1.0 - Initial release.
+* Version 1.2 - Confirmed suitability with WP 4.0.
 * Version 1.1 - Added graphics, and confirmed suitability with WP 3.6x.
+* Version 1.0 - Initial release.
 
 == Installation ==
 
